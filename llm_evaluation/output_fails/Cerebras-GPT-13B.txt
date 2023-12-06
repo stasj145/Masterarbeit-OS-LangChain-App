@@ -1,0 +1,3452 @@
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+The response to this request should be a JSON object with the following structure
+{'device': 'Study Light', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+The response should be in JSON format as defined under "JSON STRUCTURE". The "action" should be "turn on" or "turn off".
+{'device': 'Balcony Light', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'Dining Room Light', 'action': 'power on'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'Dining Room Light', 'action': 'power on'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'Dining Room Light', 'action': 'power on'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom light', 'attribute': 'on'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom light', 'attribute': 'on'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom light', 'attribute': 'on'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom light', 'attribute': 'on'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom light', 'attribute': 'on'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'bathroom light', 'attribute': 'power'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'bathroom light', 'attribute': 'power'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'bathroom light', 'attribute': 'power'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'bathroom light', 'attribute': 'power'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'bathroom light', 'attribute': 'power'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage light', 'attribute': 'on'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage light', 'attribute': 'on'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage light', 'attribute': 'on'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage light', 'attribute': 'on'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage light', 'attribute': 'on'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'study room light', 'attribute': 'on'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'study room light', 'attribute': 'on'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+The response should be in JSON format as defined under "JSON STRUCTURE". The "action" should be "turn on" or "turn off".
+{'device': 'Garage Light', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Light', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+The response to the above request will be
+{'device': 'Study Light', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Kill the Study Light.
+The response to the above request will be a JSON object with the following structure
+{'device': 'Study Light', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shut down'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'Dining Room Light', 'action': 'power on'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'Dining Room Light', 'action': 'power on'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'Dining Room Light', 'action': 'power on'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom', 'attribute': 'light'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom', 'attribute': 'light'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom', 'attribute': 'light'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom', 'attribute': 'light'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'bedroom', 'attribute': 'light'}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'lightbulb', 'attribute': 'brightness'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'lightbulb', 'attribute': 'brightness'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'lightbulb', 'attribute': 'brightness'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'lightbulb', 'attribute': 'brightness'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'lightbulb', 'attribute': 'brightness'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage', 'attribute': 'light'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage', 'attribute': 'light'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage', 'attribute': 'light'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage', 'attribute': 'light'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'device': 'garage', 'attribute': 'light'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{'device': 'light', 'attribute': 'brightness'}
+{'device': 'porch light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{'device': 'light', 'attribute': 'brightness'}
+{'device': 'porch light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{'device': 'light_pce', 'attribute': 'brightness'}
+{'device': 'porch light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{'device': 'light_pce', 'attribute': 'brightness'}
+{'device': 'porch light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{'device': 'light', 'attribute': 'brightness'}
+{'device': 'porch light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'device': 'bedroom_light', 'attribute': 'color'}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'device': 'bedroom_light', 'attribute': 'color'}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'device': 'bedroom', 'attribute': 'light_color'}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'device': 'bedroom', 'attribute': 'color'}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'device': 'bedroom_light', 'attribute': 'color'}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway_light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway_light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway_light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway_light', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'device': 'hallway', 'attribute': 'on'}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{'device': 'garage', 'attribute': 'brightness'}
+{'device': 'garage light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{'device': 'garage', 'attribute': 'brightness'}
+{'device': 'garage light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{'device': 'garage', 'attribute': 'brightness'}
+{'device': 'garage light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{'device': 'garage', 'attribute': 'brightness'}
+{'device': 'garage light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{'device': 'garage', 'attribute': 'brightness'}
+{'device': 'garage light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+What color is the dining room light?
+{'device': 'dining_room_light', 'attribute': 'color'}
+{'device': 'dining room light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the dining room light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'dining room light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'light', 'attribute': 'on'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'light', 'attribute': 'on'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'light', 'attribute': 'on'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'study_room', 'attribute': 'on'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'light', 'attribute': 'on'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The lights have been changed successfully.",
+        "devices": [
+            {
+                "device": "light.
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.study_room",
+            "action": "power",
+            "state": "on"
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.study_room",
+            "action": "power",
+            "state": "on"
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully updated the device.",
+        "devices": [
+            {
+          
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.bedroom",
+            "action": "switch-off",
+            "state": "off"
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The light has been turned on.",
+        "device_ids": ["light.bedroom"],
+        "actions": [
+            {
+  
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following fields
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully changed the color of the garage light to red.",
+        "devices": [
+            {
+    
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID
+* Action
+* State
+* Response Time
+* Response Message
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully updated the device.",
+        "devices": [
+            {
+          
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully updated the device.",
+        "devices": [
+            {
+          
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully completed the request.",
+        "devices": [
+            {
+          
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.study_room",
+            "action": "power",
+            "state": "off"
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.study_room",
+            "action": "power",
+            "state": "off"
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID
+* Action
+* State
+* Response time (in seconds)
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID
+* Action
+* State
+* Time
+* Message
+* Response Code
+* Response Data
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The lights have been set to the requested state.",
+        "devices": [
+            {
+                "device"
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.bedroom",
+            "action": "power",
+            "state": "on"
+ 
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The light in the garage has been turned off.', 'device_ids': ['light.garage']}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.garage",
+            "action": "power",
+            "state": "off"
+
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.garage",
+            "action": "power",
+            "state": "off"
+
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be a JSON object with the following structure:
+{
+    "type": "command",
+    "commands": [
+        {
+            "device": "light.study_room",
+            "action": "color",
+            "state": "yellow"
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully changed the state of the light.",
+        "devices": [
+            {
+       
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID
+* Action
+* State
+* Time
+* Message
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+
+* **Power** - Turn on the light.
+* **Color** - Set the color to green.
+* **Dimmer** - Dim the light to 50%.
+* **Power** - Turn off the light.
+* **Power** - Turn on the light.
+* **Power** - Turn off the light.
+* **Power** - Turn on the light.
+* **Power** - Turn off the light.
+* **Power** - Turn on the
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The light has been activated.', 'device_ids': ['light.garage']}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+The response will be a JSON object with the following structure
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "arguments": ["bedroom"]
+        },
+        {
+            "
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "device": "light.bedroom"
+        },
+        {
+           
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "arguments": ["bedroom"]
+        },
+        {
+            "
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "arguments": ["bedroom"]
+        },
+        {
+            "
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'response', 'commands': [{'command': 'turn-on', 'device': 'light.bedroom'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "set_color",
+            "parameters": {
+                "color": "red
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'response', 'commands': [{'command': 'set_color', 'arguments': ['light.study_room', 'red']}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response will be a JSON structure like this
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'type': 'response', 'data': {'status': 'success', 'message': 'The light is on.', 'device_id': 'light.bathroom', 'attributes': ['power']}}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response will be a JSON structure with the following commands
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response will be a JSON structure with the following commands
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "device": "light.bathroom",
+            "attribute": "power
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response will be a JSON structure like this
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "device": "light.garage",
+            "attribute": "brightness"
+        },
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "device": "light.garage",
+            "attribute": "brightness"
+        },
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "device": "light.garage",
+            "attribute": "brightness"
+        },
+        {
+           
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+The response will be a JSON structure like this
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response will be a JSON structure like this
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response will be a JSON structure with the following commands
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response will be a JSON structure like this
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response will be a JSON structure like this
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{'type': 'response', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "arguments": ["light.kitchen"]
+        },
+        {
+         
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "device": "light.kitchen"
+        },
+        {
+          
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "device": "light.kitchen"
+        },
+        {
+          
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "turn-on",
+            "device": "light.kitchen"
+        },
+        {
+          
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+The response will be a JSON structure with the following commands
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get-color",
+            "args": ["light.bedroom"],
+            "result": "red"
+        },
+  
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get-color",
+            "args": ["light.bedroom"],
+            "result": "red"
+        },
+  
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'type': 'response', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get_device",
+            "device": "light.bedroom",
+            "attribute": "color"
+        },
+  
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get_device",
+            "device": "light.garage",
+            "attribute": "brightness"
+        },
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response will be a JSON structure with the following commands
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get_status",
+            "parameters": {
+                "device": "light
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "device": "light.garage",
+        "attribute": "brightness"
+    }
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get_device",
+            "device": "light.garage",
+            "attribute": "brightness"
+        },
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+The response will be a JSON structure like this
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'type': 'response', 'commands': [{'command': 'get_status', 'arguments': ['light.study_room']}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get_status",
+            "args": ["light.study_room"],
+            "return_value": "on"
+       
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get_status",
+            "arguments": ["light.study_room"],
+            "returns": "on"
+       
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+The response will be a JSON structure with the following commands
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+
+{
+    "type": "response",
+    "commands": [
+        {
+            "command": "get_device",
+            "device": "light.garage",
+            "attribute": "color"
+        },
+ 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response will be a JSON structure with the following commands
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The Study Room Light has been turned on.', 'device_id': 'light.study_room'}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The Study Room Light has been turned on.', 'device_id': 'light.study_room'}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The Study Room Light was turned on.', 'device_id': 'light.study_room'}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The Study Room Light has been turned on.', 'device_id': 'light.study_room'}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID: "light.bedroom"
+* Action: "switch off"
+* State: "off"
+* Time: "now"
+* Message: "Bedroom light switched off"
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The bedroom light has been switched off.', 'device': 'light.bedroom'}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The bedroom light has been switched off.', 'device': 'light.bedroom'}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+
+```json
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The color of the garage light has been changed to red.",
+        "device": "light.garage",
+        "action": "power",
+      
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'type': 'response', 'data': {'status': 'success', 'message': 'Successfully changed the color of the garage light to red.', 'device_id': 'light.garage'}, 'errors': []}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully changed the color of the garage light to red.",
+        "device": "light.garage",
+        "action": "power",
+        "state": "
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The color of the garage light has been changed to red.",
+        "device_alias": "light.garage",
+        "device_id": "light.garage",
+   
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+
+```json
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully dimmed the livingroom light to 70%.",
+        "device_alias": "light.livingroom",
+        "device_id": "light.livingroom",
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+
+```json
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully dimmed the livingroom light to 70%.",
+        "device": "light.livingroom",
+        "action": "dim",
+      
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID
+* Action
+* State
+* Time
+* Message
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID: "light.study_room"
+* Action: "switch"
+* State: "off"
+* Response Time: "0.00"
+* Response Status: "success"
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information:
+* Device ID: "light.study_room"
+* Action: "switch"
+* State: "off"
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The bedroom light has been set to blue.', 'device': 'light.bedroom'}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully set the bedroom light to blue.",
+        "device": "light.bedroom",
+        "action": "set_color",
+        "state": "blue"
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Garage light turned off.",
+        "device_id": "light.garage"
+    }
+}
+
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The study room light has been changed to yellow.",
+        "device_id": "light.study_room",
+        "action": "power",
+        "state
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The color of the study room light has been changed to yellow.",
+        "device": "light.study_room",
+        "action": "power",
+        "
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'response', 'data': {'status': 'success', 'message': 'Successfully dimmed the bedroom light to 25%.', 'device_id': 'light.bedroom'}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+
+```json
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully dimmed the bedroom light to 25%.",
+        "device_id": "light.bedroom"
+    }
+}
+```
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+
+```json
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "Successfully dimmed the bedroom light to 25%.",
+        "device": "light.bedroom",
+        "action": "dim",
+        "
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The garage light has been activated.', 'device_id': 'light.garage'}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The garage light has been activated.', 'device_alias': 'light.garage'}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'response', 'data': {'status': 'success', 'message': 'The garage light has been activated.', 'device_id': 'light.garage'}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following information
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'response', 'data': {'device': 'light.bedroom', 'attribute': 'on'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'response', 'data': {'device': 'light.bedroom', 'attribute': 'on'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'response', 'data': {'device_id': 'light.bedroom', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "status": "success",
+        "message": "The bedroom light is on.",
+        "device_id": "light.bedroom"
+    }
+}
+
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'type': 'response', 'data': {'device': 'light.bathroom', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'response', 'data': {'device': 'light.garage', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "device": "light.garage",
+        "attribute": "brightness"
+    }
+}
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'response', 'data': {'device_id': 'light.garage', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "device": "light.garage",
+        "attribute": "brightness"
+    }
+}
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'response', 'data': {'device_id': 'light.garage', 'brightness': 'bright', 'color': 'white'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response should be formatted as follows
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response should be formatted as JSON with the following structure:
+{
+    "status": "OK",
+    "data": {
+        "light": {
+            "status": "ON",
+            "color": "white",
+            "brightness": "100%"
+
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response should be formatted as JSON and should contain the following fields
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+The response should be formatted as follows
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'type': 'response', 'data': {'device_id': 'light.kitchen', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'type': 'response', 'data': {'device': 'light.kitchen', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'type': 'response', 'data': {'device': 'light.kitchen', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'type': 'response', 'data': {'device': 'light.kitchen', 'attribute': 'brightness'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response should be formatted as follows
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response will be a JSON object with the following structure:
+{
+    "type": "response",
+    "data": {
+        "device": "light.garage",
+        "brightness": "0"
+    }
+}
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response should be formatted as follows
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response should be formatted as follows
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+The response should be formatted as follows
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.bedroom",
+    "action": "switch on",
+    "color": "green"
+}
+
+{'device': 'light.bedroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.livingroom",
+    "action": "turn on",
+    "color": "green"
+}
+
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be a JSON object with the following structure
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.livingroom",
+    "action": "turn on",
+    "color": "green"
+}
+
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.livingroom",
+    "action": "turn on",
+    "color": "green"
+}
+
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.garage",
+    "action": "illuminate",
+    "color": "green"
+}
+
+{'device': 'light.garage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.garage",
+    "action": "illuminate"
+}
+
+{'device': 'light.garage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.garage",
+    "action": "illuminate"
+}
+
+{'device': 'light.garage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.garage",
+    "action": "illuminate"
+}
+
+{'device': 'light.garage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.garage",
+    "action": "illuminate"
+}
+
+{'device': 'light.garage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bathroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bathroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bathroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bathroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bathroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.livingroom",
+    "action": "turn on",
+    "color": "green"
+}
+{'device': 'light.study_room', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'device': 'light.study_room', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bedroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be formatted as JSON. The response will contain the following fields
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be formatted as JSON. The response will contain the device name and the attribute value.
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.garage",
+    "attribute": "color"
+}
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response will be a JSON object with the following structure:
+{
+    "device": "light.bathroom",
+    "attribute": "power",
+    "value": true
+}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be formatted as JSON and should contain the following fields
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.bathroom",
+    "attribute": "power",
+    "value": true
+}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.study_room",
+    "attribute": "on"
+}
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be formatted as JSON and should contain the following fields
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.garage",
+    "attribute": "brightness"
+}
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.bedroom",
+    "attribute": "brightness"
+}
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.bedroom",
+    "attribute": "brightness"
+}
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.study_room",
+    "attribute": "color"
+}
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'turn on', 'color': '#ff0000', 'brightness': 100}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response should be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'device': 'light.garage', 'action': 'turn off', 'color': '#ff0000', 'brightness': 0}
+{'device': 'light.garage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.livingroom', 'action': 'brightness', 'value': 20}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.livingroom', 'action': 'brightness', 'value': 20}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.livingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'device': 'light.garage', 'action': 'turn on', 'color': '#ff0000', 'brightness': 100}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'device': 'light.garage', 'action': 'turn on', 'color': 'white'}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'device': 'light.garage', 'action': 'turn on', 'color': '#ff0000', 'brightness': 100}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'device': 'light.garage', 'action': 'illuminate'}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'turn on', 'color': '#ff0000'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'turn on', 'color': '#ff0000'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'reduce brightness', 'color': 'white'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'reduce brightness', 'color': 'white'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'reduce brightness', 'color': 'white'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'device': 'light.study_room', 'action': 'turn on', 'color': '#ff0000', 'brightness': 100}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'device': 'light.study_room', 'action': 'illuminate'}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'device': 'light.study_room', 'action': 'illuminate'}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_room', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bedroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': '#ff0000'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': '#ff0000'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.garage', 'action': 'decrease_brightness', 'color': '#ff0000'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.garage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.bedroom', 'attribute': 'on'}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be formatted as follows:
+{
+    "device": "light.study_room",
+    "brightness": "100%"
+}
+{'device': 'light.study_room', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.garage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{'device': 'light.kitchen', 'attribute': 'brightness'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{'device': 'light.kitchen', 'attribute': 'brightness'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{'device': 'light.kitchen', 'attribute': 'brightness'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{'device': 'light.kitchen', 'attribute': 'brightness'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be formatted as JSON with the following structure:
+{
+    "device": "light.bathroom",
+    "attribute": "brightness"
+}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be formatted as follows:
+{
+    "device": "light.bathroom",
+    "brightness": "0.5"
+}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.study_room",
+    "attribute": "on"
+}
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.study_room",
+    "attribute": "on"
+}
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+{'device': 'light.study_room', 'attribute': 'on'}
+{'device': 'light.study_room', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as follows:
+{
+    "device": "light.garage",
+    "brightness": "0.5"
+}
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as follows:
+{
+    "device": "light.garage",
+    "attribute": "brightness"
+}
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as JSON and should contain the following fields
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as follows:
+{
+    "device": "light.garage",
+    "attribute": "brightness"
+}
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as follows:
+{
+    "device": "light.garage",
+    "attribute": "brightness"
+}
+{'device': 'light.garage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'device': 'light.kitchen', 'attribute': 'off'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'device': 'light.kitchen', 'attribute': 'off'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'device': 'light.kitchen', 'attribute': 'off'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'device': 'light.kitchen', 'attribute': 'off'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'device': 'light.kitchen', 'attribute': 'off'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_room', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.grage",
+    "action": "turn off",
+    "color": "green"
+}
+
+{'device': 'light.grage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be a JSON object with the following structure
+{'device': 'light.grage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.grage",
+    "action": "turn off",
+    "color": "green"
+}
+
+{'device': 'light.grage', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.licingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.licingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.licingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.licingroom",
+    "action": "turn on",
+    "color": "#ff0000",
+    "brightness": 0.2
+}
+
+{'device': 'light.licingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.licingroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Shut off the study room light.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'turn off'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the garage.
+The response will be a JSON object with the following structure:
+{
+    "device": "light.grage",
+    "action": "illuminate",
+    "color": "green"
+}
+
+{'device': 'light.grage', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bethroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bethroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bethroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bethroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.bethroom', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'device': 'light.study_rom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.study_rom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'device': 'light.study_rom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'device': 'light.study_rom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Illuminate the study room.
+The response will be a JSON object with the following structure
+{'device': 'light.study_rom', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". All available devices and their alias are defined in the "DEVICE ALIAS LIST" in the format "Alias: device_id", choose the best fitting device. Also choose an "action" from the "ACTION LIST". 
+{'device': 'light.betroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be a JSON object with the following structure
+{'device': 'light.betroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.betroom', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+The response will be in JSON format as defined under "JSON STRUCTURE". The response will contain the following attributes
+{'device': 'light.grage', 'action': 'set brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+The response should be formatted as JSON with the following structure:
+{
+    "device": "light.betroom",
+    "attribute": "brightness"
+}
+{'device': 'light.betroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.betroom', 'attribute': 'on'}
+{'device': 'light.betroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.betroom', 'attribute': 'on'}
+{'device': 'light.betroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.betroom', 'attribute': 'on'}
+{'device': 'light.betroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'device': 'light.betroom', 'attribute': 'on'}
+{'device': 'light.betroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be formatted as follows
+{'device': 'light.study_rom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be formatted as JSON. The response should contain the following attributes
+{'device': 'light.study_rom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be formatted as JSON with the following structure:
+{
+    "device": "light.grage",
+    "attribute": "brightness"
+}
+{'device': 'light.grage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.grage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.grage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.grage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the garage light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.grage', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+The response will be a JSON object with the following structure:
+{
+    "device": "light.kitchin",
+    "attribute": "color",
+    "value": "red"
+}
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response will be a JSON object with the following structure:
+{
+    "device": "light.bethroom",
+    "attribute": "power",
+    "value": true
+}
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+The response should be formatted as JSON. The response should contain the following attributes
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.study_rom",
+    "attribute": "brightness"
+}
+{'device': 'light.study_rom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.study_rom",
+    "attribute": "brightness"
+}
+{'device': 'light.study_rom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as follows
+{'device': 'light.grage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.grage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as JSON. The response will contain the following fields
+{'device': 'light.grage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be formatted as JSON. The response will contain the following fields
+{'device': 'light.grage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.grage', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.betroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.betroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response will be a JSON object with the following structure:
+{
+    "device": "light.betroom",
+    "attribute": "brightness"
+}
+{'device': 'light.betroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.betroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+The response should be formatted as JSON. The response will contain the following fields
+{'device': 'light.betroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response should be a JSON object with the following structure:
+{
+    "device": "light.kitchin",
+    "attribute": "color"
+}
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+The response will be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'device': 'light.kitchin', 'attribute': 'off'}
+{'device': 'light.kitchin', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+The response should be in JSON format as defined under "JSON STRUCTURE". 
+{'device': 'light.study_rom', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+{'pass': 68, 'fail': 632, 'category_results': {'easy.json': {'pass': 40, 'fail': 60}, 'easy_wo_examples.json': {'pass': 15, 'fail': 85}, 'long.json': {'pass': 0, 'fail': 100}, 'long_wo_examples.json': {'pass': 0, 'fail': 100}, 'medium.json': {'pass': 0, 'fail': 100}, 'medium_wo_examples.json': {'pass': 13, 'fail': 87}, 'medium_w_mistakes.json': {'pass': 0, 'fail': 100}}}

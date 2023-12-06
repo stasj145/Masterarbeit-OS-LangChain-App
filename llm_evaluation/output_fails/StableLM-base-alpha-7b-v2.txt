@@ -1,0 +1,3054 @@
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switchOn'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switchOn'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switchOn'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door Opener', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door Opener', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door Opener', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switchOff'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switchOff'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'lightup'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'lightup'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'light up'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'light up'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'lightup'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{"device":"DiningRoomLight","action":"powerOn"}
+"""
+{'device': 'Dining Room Light', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'device': 'Bathroom Light', 'attribute': 'brightness'}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{"device":"garage light","attribute":"power"}
+"""
+import json
+from typing import List, Dict, Any
+{'device': 'garage light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{"device":"hallway light","attribute":"power"}
+"""
+{'device': 'hallway light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{"device":"hallway light","attribute":"power"}
+"""
+{'device': 'hallway light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{"device":"hallway light","attribute":"power"}
+"""
+import json
+from typing import List, Dict, Any, Union
+{'device': 'hallway light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'study room', 'attribute': 'power'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'study_light', 'attribute': 'power'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{"device":"study_light","attribute":"power"}
+"""
+{'device': 'study room light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'study_light', 'attribute': 'power'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'device': 'study_light', 'attribute': 'power'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switchOn'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switchOn'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switchOn'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom light', 'action': 'switch on'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'Bedroom Light', 'action': 'switchOn'}
+{'device': 'Bedroom Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door Opener', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door Opener', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door Opener', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Deactivate the Garage Light.
+{'device': 'Garage Door Opener', 'action': 'deactivate'}
+{'device': 'Garage Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switchOff'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the Office Light.
+{'device': 'Office Light', 'action': 'switch off'}
+{'device': 'Office Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Activate the Hallway Light.
+{'device': 'Hallway Light', 'action': 'activate'}
+{'device': 'Hallway Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the Basement Light.
+{'device': 'Basement Light', 'action': 'illuminate'}
+{'device': 'Basement Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Kill the Study Light.
+{'device': 'Study Light', 'action': 'kill'}
+{'device': 'Study Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'light up'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'light up'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'light up'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'light up'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Light up the Garden Light.
+{'device': 'Garden Light', 'action': 'lightup'}
+{'device': 'Garden Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut down the Balcony Light.
+{'device': 'Balcony Light', 'action': 'shutdown'}
+{'device': 'Balcony Light', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{"device":"DiningRoomLight","action":"powerOn"}
+"""
+{'device': 'Dining Room Light', 'action': 'turn on'}
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Power the Dining Room Light.
+{'device': 'DiningRoomLight', 'action': 'powerOn'}
+{'device': 'Dining Room Light', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"device":"bedroom","attribute":"power"} = true or false (depending if it's turned off)
+{'device': 'bedroom light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"device":"bedroom","attribute":"power"} = true or false (depending if it's turned off)
+{"device":"living room","attribute":"color"} = color name like red, blue etc...
+{"device":"living room","attribute":"brightness"} = brightness level 0-100%
+{'device': 'bedroom light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"device":"bedroom","attribute":"power"} = true or false (depending if it's turned off)
+{'device': 'bedroom light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'response': {'status': 'ok', 'data': [{'value': 'yes'}]}}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'status': 'ok', 'data': {'light_on': True}}
+{'device': 'bedroom light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'response': {'status': 'ok', 'data': [{'value': 'green'}]}}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{'device': 'light', 'attribute': 'color'}
+{'device': 'porch light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the porch light?
+{"device":"light_1","attribute":"color"} = {red=255, green=0, blue=0}
+{'device': 'porch light', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the porch light?
+{"device":"light","attribute":"color"} = {red=255, green=0, blue=0}
+{'device': 'porch light', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{"device":"bathroom","attribute":"brightness"} = 1 (if it's on) or 0 if off
+{'device': 'bathroom light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{"response":{"status":"ok","data":[{"value":string}]}}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'response': {'status': 'ok', 'data': [{'value': 0, 'unit': '%'}, {'value': 1, 'unit': '%'}]}}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{"device":"bathroom","attribute":"brightness"} = 1 (on) or 0 (off).
+{'device': 'bathroom light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light?
+{'response': {'status': 'ok', 'data': [{'value': 0, 'unit': '%'}, {'value': 1, 'unit': '%'}]}}
+{'device': 'bathroom light', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'status': 'ok', 'data': {'garage_light': True}}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'status': 'ok', 'data': {'garage_light': 'on'}, 'message': 'Garage Light On'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'status': 'ok', 'data': {'garage_light': True}}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'status': 'ok', 'data': {'garage_light': 'on'}, 'message': 'Garage Light On'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the garage light on?
+{'status': 'ok', 'data': {'garage_light': 'on'}, 'message': 'Garage Light On'}
+{'device': 'garage light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{"device":"porchlight","attribute":"brightness"} = {1,2,3,4,5,6,7,8,9,10}
+{'device': 'porch light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{"device":"porchlight","attribute":"brightness"} = 100 (if it's on) or 0 if off
+{'device': 'porch light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{"device":"porchlight","attribute":"brightness"} = 100 (if it's on) or 0 if off
+{'device': 'porch light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{"device":"porchlight","attribute":"brightness"} = 100 (if it's on) or 0 if off
+{'device': 'porch light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the porch light?
+{"device":"porchlight","attribute":"brightness"} = {0-100}
+{'device': 'porch light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'response': {'status': 'ok', 'data': [{'name': 'bedroom_light', 'value': 'blue'}]}}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{"device":"bedroom","attribute":"color"} = {red=255, green=0, blue=0}
+{'device': 'bedroom light', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'response': {'status': 'ok', 'data': [{'name': 'bedroom_light', 'value': 'blue'}]}}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{'response': {'status': 'ok', 'data': [{'value': 'red'}]}}
+{'device': 'bedroom light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the bedroom light?
+{"device":"bedroom","attribute":"color"} = {0x00FF0000} (red)
+{'device': 'bedroom light', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{"device":"Hallway Light","attribute":"Power"} = true or false (if power attribute not present then return value will be null)
+{'device': 'hallway light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{"device":"Hallway Light","attribute":"Power"} = true or false (boolean)
+{"device":"Hallway Light","attribute":"Color"} = RGB color value (string)
+{"device":"Hallway Light","attribute":"Brightness"} = brightness level between 0-100% (integer)
+{'device': 'hallway light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{'status': 'ok', 'data': {'light_on': True}}
+{'device': 'hallway light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{"device":"Hallway Light","attribute":"Power"} = true or false (boolean)
+{"device":"Hallway Light","attribute":"Color"} = color name e.g., red, blue etc...
+{"device":"Hallway Light","attribute":"Brightness"} = brightness level 0-100%
+{'device': 'hallway light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the hallway light on?
+{"device":"Hallway Light","attribute":"Power"} = true or false (boolean)
+{"device":"Hallway Light","attribute":"Color"} = color name ("red", "green", etc.)
+{"device":"Hallway Light","attribute":"Brightness"} = brightness level between 0-100%
+{'device': 'hallway light', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{"device":"garage","attribute":"brightness"} = 1 (on) or 0 (off).
+{'device': 'garage light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{"device":"garage","attribute":"brightness"} = 1 (on) or 0 (off).
+{'device': 'garage light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{"device":"garage","attribute":"brightness"} = {0-100}
+{'device': 'garage light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{"device":"garage","attribute":"brightness"} = 100
+{'device': 'garage light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the garage light?
+{"response":{"status":"ok","data":[{"value":string}]}}
+{'device': 'garage light', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+What color is the dining room light?
+{'response': {'status': 'ok', 'data': [{'name': 'dining_room_light', 'value': 'blue'}]}}
+{'device': 'dining room light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the dining room light?
+{"device":"dining_room","attribute":"color"} = {red=255, green=0, blue=0}
+{'device': 'dining room light', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the dining room light?
+{"device":"dining_room","attribute":"color"} = {red=255, green=0, blue=0}
+{'device': 'dining room light', 'attribute': 'color'}
+------------------------------------------------------------------------------------
+What color is the dining room light?
+{'response': {'status': 'ok', 'data': [{'name': 'dining_room', 'value': 'blue'}]}}
+{'device': 'dining room light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the dining room light?
+{'response': {'status': 'ok', 'data': [{'name': 'dining_room', 'value': 'red'}]}}
+{'device': 'dining room light', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'status': 'ok', 'data': {'light_on': True}}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'response': 'true'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'response': 'true'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'status': 'ok', 'data': {'study_room': {'state': 'on'}, 'living_room': {'state': 'off'}}}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light on?
+{'response': 'true'}
+{'device': 'study room light', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'on'}, {'device': 'light.study_room', 'action': 'brightness', 'percentage': '100'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'on'}, {'device': 'light.study_room', 'action': 'brightness', 'percentage': '100'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'on'}, {'device': 'light.study_room', 'action': 'brightness', 'percentage': '100'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'color', 'state': 'red'}, {'device': 'light.garage', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'color', 'state': 'red'}, {'device': 'light.garage', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'color', 'state': 'red'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'color', 'state': 'red'}, {'device': 'light.garage', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'color', 'state': 'red'}, {'device': 'light.garage', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{'type': 'command', 'commands': [[{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}, {'device': 'light.livingroom', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{'type': 'command', 'commands': [[{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}, {'device': 'light.livingroom', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{'type': 'command', 'commands': [[{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}, {'device': 'light.livingroom', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70%'}]}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{'type': 'command', 'commands': [[{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}, {'device': 'light.livingroom', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+False
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{
+    "type":"command", 
+    "commands":[
+        [
+            {"device":"light.study_room","action":"power","state":"off"},
+        ]
+    ]
+}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}, {'device': 'light.bedroom', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}, {'device': 'light.bedroom', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}, {'device': 'light.bedroom', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'off'}, {'device': 'light.garage', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}, {'device': 'light.study_room', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}, {'device': 'light.study_room', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}, {'device': 'light.study_room', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}, {'device': 'light.study_room', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'type': 'command', 'commands': [[{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}, {'device': 'light.study_room', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'dim', 'state': '25%'}, {'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}, {'device': 'light.bedroom', 'action': 'dim', 'state': '0'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}, {'device': 'light.bedroom', 'action': 'dim', 'state': '0'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}, {'device': 'light.bedroom', 'action': 'dim', 'state': '0'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [[{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}, {'device': 'light.bedroom', 'action': 'dim', 'state': '0'}]]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'on'}, {'device': 'light.garage', 'action': 'brightness', 'percentage': '100'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'on'}, {'device': 'light.garage', 'action': 'dim', 'state': '100'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'on'}, {'device': 'light.garage', 'action': 'brightness', 'percentage': '100'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'type': 'command', 'commands': [[{'device': 'light.garage', 'action': 'power', 'state': 'on'}]]}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}, {'device': 'light.bedroom', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}, {'device': 'light.bedroom', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}, {'device': 'light.bedroom', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}, {'device': 'light.bedroom', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}, {'device': 'light.bedroom', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'command', 'value': {'name': 'setColor', 'params': [{'colorName': 'red'}, {'colorName': 'green'}, {'colorName': 'blue'}]}}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'command', 'value': {'name': 'setColor', 'params': [{'colorName': 'red'}, {'colorName': 'green'}, {'colorName': 'blue'}]}}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'setColor', 'value': {'red': 255, 'green': 0, 'blue': 0}}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'setColor', 'value': {'red': 255, 'green': 0, 'blue': 0}}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'setColor', 'value': {'red': 255, 'green': 0, 'blue': 0}}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'power'}, {'device': 'light.bathroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'power'}, {'device': 'light.bathroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'power'}, {'device': 'light.bathroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'power'}, {'device': 'light.bathroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'power'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}, {'device': 'light.garage', 'attribute': 'power'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}, {'device': 'light.garage', 'attribute': 'power'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}, {'device': 'light.garage', 'attribute': 'power'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}, {'device': 'light.garage', 'attribute': 'power'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}, {'device': 'light.garage', 'attribute': 'power'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}, {'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{
+    "type":"inquiry",
+    "commands":[
+        {"device":"light.study_room","attribute":"power"},
+        ]
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{
+    "type":"inquiry",
+    "commands":[
+        {"device":"light.kitchen","attribute":"dim"},
+        ]
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{
+    "type":"inquiry",
+    "commands":[
+        {"device":"light.kitchen","attribute":"dim"},
+        ]
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'dim'}, {'device': 'light.livingroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{
+    "type":"inquiry",
+    "commands":[
+        {"device":"light.kitchen","attribute":"dim"},
+        ]
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'dim'}, {'device': 'light.kitchen', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}, {'device': 'light.bedroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}, {'device': 'light.bedroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}, {'device': 'light.bedroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}, {'device': 'light.bedroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}, {'device': 'light.bedroom', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+{
+    "type":"inquiry",
+    "commands":[
+        {
+            "device":"light.garage",
+            "attribute":"brightness"
+        },
+        ]
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}, {'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}, {'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}, {'device': 'light.study_room', 'attribute': 'state'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}, {'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}, {'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}, {'device': 'light.garage', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}, {'device': 'light.garage', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}, {'device': 'light.garage', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}, {'device': 'light.garage', 'attribute': 'brightness'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'statusCode': 200, 'body': {'message': 'Successfully turned on study room light.', 'data': {'light.study_room': True}, 'headers': {}}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'statusCode': 200, 'body': {'message': 'Successfully turned on study room light.', 'data': {'light.study_room': True}, 'headers': {}}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'statusCode': 200, 'body': {'message': 'Successfully turned on study room light.', 'data': {'light': 'on'}, 'timestamp': 1501120525000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'statusCode': 200, 'body': {'message': 'Successfully turned on study room light.', 'data': {'light': 'on'}, 'code': 0}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+{'statusCode': 200, 'body': {'message': 'Successfully turned on study room light.', 'data': {'light': 'on'}, 'timestamp': 1501371727000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'statusCode': 200, 'body': {'message': 'Successfully switched OFF bedroom light.', 'data': {'light_switch_off': True}, 'timestamp': 1564456765000}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'statusCode': 200, 'body': {'message': 'The bedroom light has been switched OFF.', 'data': {'light.bedroom': False}, 'timestamp': 1501123200000}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'statusCode': 200, 'body': {'message': 'The bedroom light has been switched OFF.', 'data': {'light_onoff': False}, 'timestamp': 1534127500}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'statusCode': 200, 'body': {'message': 'The bedroom light has been switched OFF.', 'data': {'light': 'off'}, 'timestamp': 1501120900}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "The bedroom light has been switched OFF.",
+        "data": {
+            "light": {
+                "on": false,
+                "color": "#ff0000",
+                "dimPercentage": 0
+            },
+            "userRequests": [{
+                    "alias": "light.bedroom",
+                    "action": "off",
+                    "state"
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'statusCode': 200, 'body': {'message': 'OK', 'data': {'color': 'red'}, 'timestamp': 1501644500}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'statusCode': 200, 'body': {'message': 'OK', 'data': {'color': 'red'}, 'timestamp': 1501091222000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'statusCode': 200, 'body': {'message': 'OK', 'data': {'color': 'red'}, 'timestamp': 1501372445000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'statusCode': 200, 'body': {'message': 'Color changed successfully.', 'colorName': 'red'}, 'headers': {'Content-Type': 'application/json; charset=utf-8'}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{'statusCode': 200, 'body': {'message': 'Garage Light changed successfully.', 'data': {'color': 'red'}, 'timestamp': 1564172400000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "Successfully executed command.",
+        "data": {
+            "light.livingroom": {
+                "on": false,
+                "off": true,
+                "percentage": 0.7
+            },
+            "light.bathroom": {
+                "on": false,
+                "off": true,
+                "percentage": 1
+            
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "Successfully executed command.",
+        "data": {
+            "light.livingroom": {
+                "on": true,
+                "off": false,
+                "percentage": 0.7
+            },
+            "light.bathroom": {
+                "on": false,
+                "off": false,
+                "percentage": 1.0
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{
+  "statusCode": 200, 
+  "body": {
+    "message": "Command sent successfully.",
+    "data": {
+      "light.livingroom": {
+        "on": false,
+        "off": true,
+        "percentage": 0.7
+      },
+      "light.bathroom": {
+        "on": false,
+        "off": true,
+        "percentage": 1
+      },
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "Command sent successfully.",
+        "data": {
+            "light.livingroom": {
+                "on": true,
+                "off": false,
+                "percentage": 0.7
+            },
+            "light.bathroom": {
+                "on": false,
+                "off": false,
+                "percentage": 1.0
+
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "The command was successfully sent.",
+        "data": {
+            "light.livingroom": {
+                "on": false,
+                "off": true,
+                "percentage": 0.7
+            },
+            "light.bathroom": {
+                "on": false,
+                "off": true,
+                "percentage": 1
+
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'statusCode': 200, 'body': {'message': 'Successfully switched study room light off.', 'data': {'switchState': False}, 'timestamp': 1501091245000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'statusCode': 200, 'body': {'message': 'Successfully switched study room light off.', 'data': {'switchState': False}, 'timestamp': 1564122838000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'statusCode': 200, 'body': {'message': 'Successfully switched study room light OFF.', 'data': {'light': 'off'}, 'timestamp': 1501370985000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "Successfully switched study room light OFF.",
+        "data": {}
+    },
+    "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": true,
+        "Access-Control-Expose-Headers
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+------------------------------------------------------------------------------------
+Switch the Study Room Light off.
+{'statusCode': 200, 'body': {'message': 'Successfully switched OFF study room light.', 'data': {'light.study_room': False}, 'timestamp': 1501343724000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'statusCode': 200, 'body': {'message': 'Successfully set the bedroom light to blue.', 'data': {'light.bedroom': 'blue'}, 'timestamp': 1501342400000}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'statusCode': 200, 'body': {'message': 'The request was successful.', 'data': {'light': 'blue'}, 'timestamp': 1501390925000}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'statusCode': 200, 'body': {'message': 'Successfully set the bedroom light to blue.', 'data': {'light': 'blue'}, 'timestamp': 1501271725000}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'statusCode': 200, 'body': {'message': 'Successfully set the bedroom light to blue.', 'data': {'light': 'blue'}, 'timestamp': 1501343717000}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{'statusCode': 200, 'body': {'message': 'The request was successfully processed.', 'data': {'light.bedroom': 'blue'}, 'headers': {'Content-Type': 'application/json; charset=utf-8'}}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage light turned OFF.', 'data': {'light.garage': False}, 'timestamp': 1501371200000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage light turned OFF.', 'data': {'light.garage': False}, 'timestamp': 1564013400}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage Light turned Off.', 'data': {'light.garage': False}, 'timestamp': 1501342400000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage light turned OFF.', 'data': {'light.garage': False}, 'timestamp': 1501456500}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Turn off the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage light turned OFF.', 'data': {'light.garage': False}, 'timestamp': 1501390913000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'statusCode': 200, 'body': {'message': 'Successfully changed study room light to Yellow.', 'data': {'colorName': 'Yellow'}, 'timestamp': 1564013725000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'statusCode': 200, 'body': {'message': 'Successfully changed study room light color to Yellow.', 'data': {'colorName': 'Yellow', 'percentage': 100}, 'timestamp': 1501342400000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'statusCode': 200, 'body': {'message': 'Successfully changed study room light color to Yellow.', 'data': {'colorName': 'Yellow'}, 'timestamp': 1564244555000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'statusCode': 200, 'body': {'message': 'Successfully changed study room light color to Yellow.', 'data': {'colorName': 'yellow', 'percentage': 100}, 'timestamp': 1501371739000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Change the Study Room Light color to yellow.
+{'statusCode': 200, 'body': {'message': 'Successfully changed study room light color to Yellow.', 'data': {'colorName': 'Yellow'}, 'timestamp': 1501652400000}}
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'color', 'state': 'yellow'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "The bedroom light was successfully dimmed.", 
+        "data": {
+            "light": {
+                "name": "Bedroom Light", 
+                "alias": "light.bedroom", 
+                "powerState": false, 
+                "dimState": true, 
+                "colorName": "#ff0000", 
+                "percentage": 0.25
+            },
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "Successfully executed command.",
+        "data": {
+            "light.bedroom": {
+                "on": false,
+                "off": true,
+                "percentage": 0.25
+            },
+            "light.livingroom": {
+                "on": false,
+                "off": true,
+                "percentage": 0.5
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "Successfully executed command.", 
+        "data": {
+            "light.bedroom": {
+                "on": false, 
+                "off": true, 
+                "percentage": 0.25
+            }, 
+            "light.livingroom": {
+                "on": false, 
+                "off": true, 
+                "percentage": 0.5
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{
+    "statusCode": 200, 
+    "body": {
+        "message": "Successfully executed command.",
+        "data": {
+            "light.bedroom": {
+                "on": false,
+                "off": true,
+                "percentage": 0.25
+            },
+            "light.livingroom": {
+                "on": false,
+                "off": true,
+                "percentage": 0.5
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'statusCode': 200, 'body': {'message': 'Successfully executed command.', 'data': {'dimBedRoomLightTo25Percent': True}, 'headers': {}}}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage Light activated.', 'data': {'light': 'on'}, 'timestamp': 1564273789000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage Light activated.', 'data': {'light': 'on'}, 'timestamp': 1501391647000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage Light activated.', 'data': {'light': 'on'}, 'timestamp': 1501343765000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage Light activated.', 'data': {'light': 'on'}, 'timestamp': 1564014524000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Activate the Garage Light.
+{'statusCode': 200, 'body': {'message': 'Garage Light activated.', 'data': {'light.garage': True}, 'timestamp': 1501652800000}}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'power', 'state': 'on'}]}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{
+    "status": true/false, //true if it's ON or false otherwise
+    "value": {
+        "light.bedroom": value
+    },
+    "timestamp": timestamp
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{
+    "status": true/false,
+    "message": {
+        "light.bedroom":"on",
+        "light.livingroom":"off",
+        "light.kitchen":"off",
+        "light.garage":"off",
+        "light.study_room":"off"
+    },
+    "errorMessage": ""
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{
+    "statusCode": 200,
+    "body": {
+        "result": true,
+        "message": "The bedroom light is ON."
+    },
+    "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": false,
+        "Access-Control-Expose-Headers"
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{
+    "status": true/false, //true if it's ON or false otherwise
+    "value": {
+        "light.bedroom": value
+    },
+    "timestamp": timestamp
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Is the bedroom light turned on?
+{
+    "statusCode": 200,
+    "body": {
+        "data": {
+            "isBedRoomLightOn": true/false
+        },
+        "headers": {}
+    }
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'status': 'ok', 'data': {'light.study_room': {'color': 'red'}}, 'errorMessage': '', 'timestamp': '2019-01-02T12:00:00Z'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'status': 200, 'message': {'success': True, 'data': {'light': {'state': False, 'color': '#ff0000', 'brightness': 100}, 'alias': 'light.study_room'}}}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'status': 'ok', 'data': {'light.study_room': {'alias': ['light.study_room']}}}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'status': 'okay', 'data': {'light.study_room': {'alias': ['light.study_room']}}}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{
+    "statusCode": 200,
+    "body": {
+        "message": "OK",
+        "data": {
+            "light.study_room": {
+                "state": true,
+                "color": "#ff0000",
+                "brightness": 100
+            },
+            "light.bedroom": {
+                "state": false,
+                "color": "#00ffff",
+                "brightness": 50
+            },
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{
+    "status": 200,
+    "message": {
+        "light.bathroom":{
+            "state":"on",
+            "value":"true"
+        },
+        "light.livingroom":{
+            "state":"off",
+            "value":"false"
+        },
+        "light.kitchen":{
+            "state":"off",
+            "value":"false"
+        },
+        "light.bedroom":{
+            
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{
+    "statusCode": 200,
+    "body": {
+        "result": true,
+        "message": "The brightness of the bathroom light is set to max."
+    },
+    "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": false,
+        "Access-Control-
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{'statusCode': 200, 'body': {'result': True, 'message': 'The brightness of the bathroom light is set to max.'}, 'headers': {}}
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{
+    "statusCode": 200,
+    "body": {
+        "result": true,
+        "message": "The brightness of the bathroom light is set to 100%.",
+        "data": {
+            "light.bathroom": {
+                "value": 100
+            },
+            "light.livingroom": {
+                "value": 0
+            },
+            "light.kitchen": {
+                "value": 50
+            
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the brightness of the bathroom light at maximum?
+{
+  "statusCode": 200,
+  "body": {
+    "result": true,
+    "message": "The brightness of the bathroom light is set to 100%.",
+    "data": {
+      "light.bathroom": {
+        "value": 100
+      },
+      "light.livingroom": {
+        "value": 0
+      },
+      "light.kitchen": {
+        "value": 50
+      
+{'type': 'inquiry', 'commands': [{'device': 'light.bathroom', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'statusCode': 200, 'body': {'result': True, 'message': 'The Garage Light Is Bright Enough.'}, 'headers': {}}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{
+    "statusCode": 200,
+    "body": {
+        "result": true,
+        "message": "The Garage Light Is Bright Enough."
+    },
+    "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": false,
+        "Access-Control-Expose
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'status': 'success', 'data': {'light.garage': {'value': 'yes'}, 'light.kitchen': {'value': 'no'}}, 'errorCode': 0}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{'statusCode': 200, 'body': {'result': True, 'message': 'The Garage Light Is Bright Enough.'}, 'headers': {}}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the garage light bright enough?
+{
+    "statusCode": 200,
+    "body": {
+        "result": true,
+        "message": "The Garage Light Is Bright Enough."
+    },
+    "headers": {
+        "Content-Type": "application/json; charset=utf-8",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": false,
+        "Access-Control-Expose
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{'status': 'ok', 'data': {'light.study_room': {'state': 'on'}, 'light.bedroom': {'state': 'off'}}, 'errorMessage': '', 'timestamp': '2019-01-02T12:00:00Z'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{'status': 'successful', 'data': {'light.study_room': {'state': 'on'}, 'light.bedroom': {'state': 'off'}}, 'message': 'The state of your lights has been updated.'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{'status': 'successful', 'data': {'light.study_room': {'state': 'on'}, 'light.bedroom': {'state': 'off'}}, 'message': 'The state of the study room light is on.'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{'status': 'success', 'data': {'light.study_room': {'state': 'on'}, 'light.bedroom': {'state': 'off'}}, 'message': 'The state of your lights has been updated.'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+What's the power status of the study room light?
+{'status': 'successful', 'data': {'light.study_room': {'state': 'on'}, 'light.bedroom': {'state': 'off'}}, 'message': 'The state of your lights has been updated.'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'status': 200, 'message': {'light.kitchen': True}, 'data': {}}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'status': 'ok', 'data': {'light.kitchen': {'state': 'on'}, 'light.bathroom': {'state': 'off'}}, 'errorCode': 0}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'status': 200, 'message': {'is_dimmable': True, 'state': False, 'value': None}, 'data': {'light.kitchen': {'alias': 'light.kitchen', 'attributes': ['power']}}}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'status': 'okay', 'data': {'light.kitchen': {'state': 'on'}, 'light.bathroom': {'state': 'off'}}, 'errorCode': 0}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{
+    "status": 200,
+    "message": {
+        "is_dimmable": true,
+        "current_level": 0,
+        "max_level": 100,
+        "min_level": 1
+    },
+    "data": {
+        "light.kitchen": {
+            "is_dimmable": false,
+            "current_level": 50,
+            "max_level": 100,
+            "min
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'status': 'ok', 'data': {'light.bedroom': {'state': 'on'}, 'light.bedroom.color': 'red'}}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{
+    "statusCode": 200,
+    "body": {
+        "data": [{
+            "alias": "light.bedroom",
+            "value": "white"
+        }, {
+            "alias": "light.bedroom",
+            "value": "yellow"
+        }, {
+            "alias": "light.bedroom",
+            "value": "blue"
+        }, {
+            "alias": "light.bedroom
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'status': 'ok', 'data': {'light.bedroom': {'color': 'red'}, 'light.kitchen': {'color': 'yellow'}}, 'errorMessage': '', 'timestamp': '2019-01-02T12:00:00Z'}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'status': 200, 'data': {'light.bedroom': 'white'}, 'error': None}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you tell me the color of the bedroom light?
+{'status': 'ok', 'data': {'light.bedroom': {'color': 'red'}, 'light.kitchen': {'color': 'yellow'}}, 'errorMessage': '', 'timestamp': '2018-01-02T00:30:10Z'}
+{'type': 'inquiry', 'commands': [{'device': 'light.bedroom', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+{
+    "status": 200,
+    "data": {
+        "light.garage":{
+            "value":"50%",
+            "alias":"Garage Light"
+        },
+        "light.kitchen":{
+            "value":"100%"
+        },
+        "light.livingroom":{
+            "value":"75%"
+        },
+        "light.bedroom":{
+            "value":"25%"
+        },
+        "light
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+{
+  "statusCode": 200,
+  "body": {
+    "data": {
+      "light.garage": {
+        "value": 100
+      },
+      "light.kitchen": {
+        "value": 50
+      },
+      "light.livingroom": {
+        "value": 75
+      },
+      "light.bedroom": {
+        "value": 25
+      },
+      "light.study_
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+{
+    "statusCode": 200,
+    "body": {
+        "data": {
+            "light.garage": {
+                "value": 50
+            },
+            "light.kitchen": {
+                "value": 100
+            },
+            "light.livingroom": {
+                "value": 150
+            },
+            "light.bedroom": {
+                "value": 250
+            },
+            "light.study_
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+{
+  "statusCode": 200,
+  "body": {
+    "data": {
+      "light.garage": {
+        "value": 100,
+        "unit": "%"
+      },
+      "light.bedroom": {
+        "value": 50,
+        "unit": "%"
+      },
+      "light.kitchen": {
+        "value": 20,
+        "unit": "%"
+      },
+
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+How bright is the garage light now?
+{
+    "statusCode": 200,
+    "body": {
+        "data": {
+            "light.garage": {
+                "value": 100
+            },
+            "light.kitchen": {
+                "value": 50
+            },
+            "light.livingroom": {
+                "value": 75
+            },
+            "light.bedroom": {
+                "value": 80
+            },
+            "light.bath
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'brightness'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'status': 'success', 'data': {'light.study_room': {'state': 'on'}}, 'message': 'The Study Room Light Is On!'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'status': 'ok', 'data': {'light.study_room': {'state': 'on'}}, 'errorMessage': '', 'timestamp': '2018-01-02T00:30:12Z'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'status': 'ok', 'data': {'light.study_room': {'state': 'on'}}, 'message': 'successfully received request!'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{
+    "status": 200,
+    "data": {
+        "light.study_room": true/false
+    },
+    "error": null
+}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+------------------------------------------------------------------------------------
+I want to know if the study room light is on or off.
+{'status': 'ok', 'data': {'light.study_room': {'onoff': 'true'}, 'light.bedroom': {'onoff': 'false'}}, 'message': 'successfully retrieved data for all lights'}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'power'}]}
+False
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{
+    "statusCode": 200,
+    "body": {
+        "data": {
+            "light.garage": {
+                "value": "white"
+            },
+            "light.kitchen": {
+                "value": "yellow"
+            },
+            "light.livingroom": {
+                "value": "blue"
+            },
+            "light.bedroom": {
+                "value": "red"
+            
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{
+    "statusCode": 200,
+    "body": {
+        "data": {
+            "light.garage": {
+                "state": true,
+                "color": "#ff0000"
+            },
+            "light.kitchen": {
+                "state": false,
+                "color": "#00FF00"
+            },
+            "light.livingroom": {
+                "state": true,
+                "color": "#
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{
+    "statusCode": 200,
+    "body": {
+        "data": {
+            "light.garage": {
+                "state": true,
+                "color": "#ff0000",
+                "brightness": 100
+            },
+            "light.bedroom": {
+                "state": false,
+                "color": "#00ffff",
+                "brightness": 50
+            },
+            "light.kitchen": {
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{'status': 'ok', 'data': {'light.garage': {'color': 'red'}}, 'errorMessage': '', 'timestamp': 1525342400000}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+What color is the garage light currently?
+{'status': 'ok', 'data': {'light.garage': {'value': 'white'}, 'light.kitchen': {'value': 'yellow'}}, 'errorCode': '', 'errorMessage': '', 'timestamp': '2019-01-02T12:00:00Z'}
+{'type': 'inquiry', 'commands': [{'device': 'light.garage', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'switch on'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'switch on'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'switch on'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'switch on'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'device': 'light.garage', 'action': 'switch off'}
+{'device': 'light.garage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'device': 'light.study_room', 'action': 'set color', 'color': 'blue'}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'device': 'light.study_room', 'action': 'set color', 'color': 'blue'}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'device': 'light.study_room', 'action': 'set color', 'color': 'blue'}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'device': 'light.study_room', 'action': 'set color', 'color': 'blue'}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.livingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.livingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.livingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.livingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.livingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_room', 'action': 'shut off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_room', 'action': 'shut off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_room', 'action': 'shut off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_room', 'action': 'shut off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_room', 'action': 'shut off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'set brightness', 'value': 50}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'reduce brightness'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'set brightness', 'value': 50}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'set brightness', 'value': 50}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bathroom', 'action': 'reduce brightness'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.bedroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.garage', 'action': 'decrease brightness', 'value': 30}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.garage', 'action': 'decrease brightness'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.garage', 'action': 'decrease brightness', 'value': 30}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.garage', 'action': 'decrease brightness', 'value': 30}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.garage', 'action': 'decrease brightness'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"device":"light.bedroom","attribute":"power"},
+{"device":"light.bedroom","attribute":"color"},
+{"device":"light.bedroom","attribute":"brightness"}
+{'device': 'light.bedroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"device":"light.bedroom","attribute":"power"},
+{"device":"light.bedroom","attribute":"color"},
+{"device":"light.bedroom","attribute":"brightness"}
+{'device': 'light.bedroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{"device":"light.kitchen","attribute":"power"} = false
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{"device":"light.kitchen","attribute":"power"} = false
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{"device":"light.kitchen","attribute":"power"} = false
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bathroom', 'attribute': 'power'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bathroom', 'attribute': 'power'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bathroom', 'attribute': 'power'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bathroom', 'attribute': 'power'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bathroom', 'attribute': 'power'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchen","attribute":"power"} ==> true or false
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchen","attribute":"power"} ==> true
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchen","attribute":"power"} ==> true
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchen","attribute":"power"} ==> true or false
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchen","attribute":"power"} ==> true
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'status': 'success', 'message': 'The bedroom light has been turned ON'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'status': 'success', 'message': 'Bedroom Light turned ON'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'status': 'success', 'message': 'Bedroom Light turned ON'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'status': 'success', 'message': 'Bedroom light turned ON'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch on the Bedroom Light.
+{'status': 'success', 'message': 'Bedroom light turned on'}
+{'device': 'light.bedroom', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'status': 'success', 'message': 'The light has been turned off'}
+{'device': 'light.garage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'status': 'success', 'message': 'The light has been turned off'}
+{'device': 'light.garage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'status': 'success', 'message': 'The light has been turned off'}
+{'device': 'light.garage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'status': 'success', 'message': 'The light was turned off successfully'}
+{'device': 'light.garage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'status': 'success', 'message': 'The light was turned off successfully'}
+{'device': 'light.garage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{"status":"success","message":"The request was successfully sent.","data":{"light":1,"color":"blue"},"timestamp":1564453755000}}
+{'device': 'light.study_room', 'action': 'set color'}
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'status': 'successful', 'message': 'The request was successful.', 'data': {'light': {'color': '#00ff00', 'brightness': 100}, 'userRequestedAction': 'changeColorToBlue'}}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'status': 'success', 'message': 'The request was successfully sent.', 'data': {'color': 'blue'}, 'timestamp': 1555353400}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'status': 'success', 'message': 'Light turned on'}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'status': 'success', 'message': 'The request was successful.', 'data': {'color': 'blue'}, 'timestamp': 1555453600}
+{'device': 'light.study_room', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'status': 'success', 'message': 'Living Room Light Brightness Adjusted'}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'status': 'success', 'message': 'The request has been processed successfully.', 'data': {'light.livingroom': {}}, 'timestamp': 1555120978000}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'status': 'success', 'message': 'Light adjusted successfully'}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'status': 'success', 'message': 'The livingroom light was turned ON'}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'status': 'success', 'message': 'The livingroom light was successfully adjusted to 20%'}
+{'device': 'light.livingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'status': 'success', 'message': 'The study room light has been turned off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'status': 'success', 'message': 'The study room light has been turned off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'status': 'success', 'message': 'The study room light was turned off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'status': 'success', 'message': 'The study room light has been turned off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'status': 'success', 'message': 'The study room light has been turned off'}
+{'device': 'light.study_room', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'status': 'success', 'message': 'Garage illuminated'}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'status': 'success', 'message': 'Garage illuminated'}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'status': 'success', 'message': 'Garage illuminated'}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'status': 'successful', 'message': '', 'data': {'light': {'state': True, 'color': '#ff0000', 'brightness': 100}, 'user': {'name': '<NAME>', 'email': '<EMAIL>'}}}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the garage.
+{'status': 'success', 'message': 'Garage illuminated'}
+{'device': 'light.garage', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'status': 'success', 'message': 'Brightness reduced'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'status': 'success', 'message': 'Brightness reduced successfully'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'status': 'success', 'message': 'Brightness reduced'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'status': 'ok', 'message': 'Brightness reduced by 10%'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'status': 'ok', 'message': 'Brightness reduced'}
+{'device': 'light.bathroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'status': 'success', 'message': 'The lights have been turned on'}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'status': 'success', 'message': 'The lights were turned on'}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'status': 'success', 'message': 'The lights have been turned on'}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'status': 'success', 'message': 'The lights have been turned on'}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Illuminate the study room.
+{'status': 'success', 'message': 'The lights have been turned on'}
+{'device': 'light.study_room', 'action': 'turn on'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'status': 'success', 'message': 'The bedroom light has been set to Red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'status': 'success', 'message': 'The bedroom light was turned on'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'status': 'success', 'message': 'The bedroom light has been set to Red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'status': 'success', 'message': 'The bedroom light has been set to Red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'status': 'success', 'message': 'The bedroom light has been set to Red'}
+{'device': 'light.bedroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'status': 'success', 'message': 'Garage Light Brightness Decreased'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'status': 'success', 'message': 'Garage Light Brightness Decreased'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'status': 'success', 'message': 'Garage Light Brightness decreased by 10%'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'status': 'success', 'message': 'Garage Light Brightness Decreased'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'status': 'success', 'message': 'Garage Light Brightness decreased by 10%'}
+{'device': 'light.garage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"isOn": true/false}, or if not found - {null}
+{'device': 'light.bedroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{'status': 'okay', 'message': "Yes it's on.", 'data': {'light.bedroom': {'state': 'on'}}, 'timestamp': 1527373800}
+{'device': 'light.bedroom', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"isOn": true/false}, or if not found - {error message}.
+{'device': 'light.bedroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"isOn": true/false}, or if not found: {error message}.
+{'device': 'light.bedroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"isOn": true/false}
+{'device': 'light.bedroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the study room light?
+{'light': {'bathroom': 0.5, 'livingroom': 1, 'kitchen': 2, 'bedroom': 3, 'garage': 4, 'study_room': 5}}
+{'device': 'light.study_room', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the study room light?
+{'light.study_room': {'value': '50%'}}
+{'device': 'light.study_room', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the study room light?
+{'light': {'study_room': '50%', 'brightness': '50%'}, 'bathroom': '100%'}
+{'device': 'light.study_room', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the study room light?
+{'light': {'bathroom': '0', 'livingroom': '1', 'kitchen': '2', 'bedroom': '3', 'garage': '4', 'study_room': '5'}, 'value': '6'}
+{'device': 'light.study_room', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the study room light?
+{'light': {'bathroom': 0.5, 'livingroom': 1.0, 'kitchen': 2.0, 'bedroom': 3.0, 'garage': 4.0, 'study_room': 5.0}}
+{'device': 'light.study_room', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+What color is the garage light?
+{'light.garage': {'color': 'red', 'brightness': 100}}
+{'device': 'light.garage', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the garage light?
+{'light.garage': {'color': 'red', 'brightness': 100}}
+{'device': 'light.garage', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the garage light?
+{'light.garage': {'color': 'red', 'brightness': 100}}
+{'device': 'light.garage', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the garage light?
+{'light.garage': {'color': 'red', 'brightness': 100}}
+{'device': 'light.garage', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+What color is the garage light?
+{'light.garage': {'color': 'red', 'brightness': 100}}
+{'device': 'light.garage', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{'is_on': 'true', 'light_name': 'light.kitchen'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{"is_on": true/false}, {light.kitchen:"On"}
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{"is_on": true/false}, or if not found - {null}
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{"is_on": true/false}, { "light_state":"off"}
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the kitchen light turned off?
+{"is_on": true/false}, {light.kitchen:"On"}
+{'device': 'light.kitchen', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{"light": {
+    "bathroom": {
+        "brightness": 50
+    },
+    "livingroom": {
+        "brightness": 100
+    },
+    "kitchen": {
+        "brightness": 150
+    },
+    "bedroom": {
+        "brightness": 200
+    },
+    "garage": {
+        "brightness": 250
+    },
+    "study_room": {
+        
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'light.bathroom': {'value': '50%', 'alias': 'Brightness'}, 'power': 'on'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'light.bathroom': {'value': '100%', 'alias': 'Brightness'}, 'power': 'on'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'light.bathroom': {'value': '100%', 'alias': 'Brightness'}, 'power': 'on'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'light.bathroom': {'value': '100%', 'alias': 'Brightness'}, 'power': 'on'}
+{'device': 'light.bathroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+{'status': 'ok', 'message': 'yes'}
+{'device': 'light.study_room', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+{'status': 'ok', 'data': {'light.study_room': {'state': 'on'}, 'light.kitchen': {'state': 'off'}}, 'message': 'The lights of your house are working fine.'}
+{'device': 'light.study_room', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+{'status': 'successful', 'message': '', 'data': {'light.study_room': {'state': 'on'}}, 'timestamp': 1525122400}
+{'device': 'light.study_room', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+{"isOn": true/false}
+{'device': 'light.study_room', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Is the study room light turned on?
+{'status': 'ok', 'message': 'yes'}
+{'device': 'light.study_room', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+{'light': {'Garage': '1', 'Brightness': '50%'}, 'error': False}
+{'device': 'light.garage', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+{'light': {'Garage': 'Brightness', 'value': 50}}
+{'device': 'light.garage', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+{'light': {'Garage': '100', 'Brightness': '50'}, 'error': None}
+{'device': 'light.garage', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+{'light': {'Garage': '100', 'Brightness': '50'}, 'error': False}
+{'device': 'light.garage', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+What's the brightness level of the garage light?
+{'light': {'Garage': '100%', 'Brightness': '50%'}}
+{'device': 'light.garage', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+{"isBright": true/false}, or {“error”: “not found”}
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+{"isBright": true/false}, or if not possible (e.g., no response) then return null
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+{"isBright": true/false}, { "light.bedroom":"{value}" }
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+{"isBright": true/false}, { "lightColor": color or brightness value }
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Is the bedroom light bright?
+{"isBright": true/false},
+{"lightColor": color of the light (red, green or blue),
+{"lightPower": power level of the light (0-100%) }
+{'device': 'light.bedroom', 'attribute': 'brightness'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'status': 'ok', 'message': 'yes'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'status': 'ok', 'message': 'yes'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'status': 'ok', 'message': 'yes'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'response': 'true'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{'status': 'ok', 'data': {'light.kitchen': {'state': 'on'}}, 'message': 'The Kitchen Light is on.'}
+{'device': 'light.kitchen', 'attribute': 'power'}
+False
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+{'light': {'color': 'red', 'brightness': 50}, 'userRequestedAttribute': 'color'}
+{'device': 'light.study_room', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+{'light.study_room': {'color': 'red', 'brightness': 100}}
+{'device': 'light.study_room', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+{'light.study_room': {'color': 'red', 'brightness': '50%'}, 'light.kitchen': {'color': 'blue'}}
+{'device': 'light.study_room', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+{'response': {'statusCode': 200, 'body': [{'alias': 'light.study_room', 'value': 'blue'}]}, 'headers': {'Content-Type': 'application/json; charset=utf-8'}}
+{'device': 'light.study_room', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Tell me the color of the study room light.
+{'light.study_room': {'color': 'red', 'brightness': 100}}
+{'device': 'light.study_room', 'attribute': 'color'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'device': 'light.grage', 'action': 'switch off'}
+{'device': 'light.grage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Switch off the light in the garage.
+{'device': 'light.grage', 'action': 'switch off'}
+{'device': 'light.grage', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'device': 'light.study_rom', 'action': 'set color', 'color': 'blue'}
+{'device': 'light.study_rom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Change the light color in the study room to blue.
+{'device': 'light.study_rom', 'action': 'set color', 'color': 'blue'}
+{'device': 'light.study_rom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.licingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.licingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.licingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.licingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.licingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.licingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.licingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.licingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Adjust the livingroom light brightness to 20%.
+{'device': 'light.licingroom', 'action': 'set brightness', 'value': 20}
+{'device': 'light.licingroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_rom', 'action': 'shut off'}
+{'device': 'light.study_rom', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_rom', 'action': 'shut off'}
+{'device': 'light.study_rom', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_rom', 'action': 'shut off'}
+{'device': 'light.study_rom', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_rom', 'action': 'shut off'}
+{'device': 'light.study_rom', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Shut off the study room light.
+{'device': 'light.study_rom', 'action': 'shut off'}
+{'device': 'light.study_rom', 'action': 'turn off'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bethroom', 'action': 'reduce brightness'}
+{'device': 'light.bethroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bethroom', 'action': 'reduce brightness'}
+{'device': 'light.bethroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bethroom', 'action': 'reduce brightness'}
+{'device': 'light.bethroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bethroom', 'action': 'reduce brightness'}
+{'device': 'light.bethroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Reduce brightness in the bathroom.
+{'device': 'light.bethroom', 'action': 'reduce brightness'}
+{'device': 'light.bethroom', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.betroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.betroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.betroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.betroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.betroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.betroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.betroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.betroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light color to red.
+{'device': 'light.betroom', 'action': 'set color', 'color': 'red'}
+{'device': 'light.betroom', 'action': 'set color'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.grage', 'action': 'decrease brightness'}
+{'device': 'light.grage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.grage', 'action': 'decrease brightness'}
+{'device': 'light.grage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.grage', 'action': 'decrease brightness by 10%'}
+{'device': 'light.grage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.grage', 'action': 'decrease brightness by 10%'}
+{'device': 'light.grage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Decrease the brightness of the garage light to 30%.
+{'device': 'light.grage', 'action': 'decrease brightness'}
+{'device': 'light.grage', 'action': 'set brightness'}
+False
+------------------------------------------------------------------------------------
+Is the bedroom light on?
+{"device":"light.betroom","attribute":"power"},
+{"device":"light.betroom","attribute":"color"},
+{"device":"light.betroom","attribute":"brightness"}
+{'device': 'light.betroom', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bethroom', 'attribute': 'power'}
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bethroom', 'attribute': 'power'}
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bethroom', 'attribute': 'power'}
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bethroom', 'attribute': 'power'}
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+How bright is the bathroom light right now?
+{'device': 'light.bethroom', 'attribute': 'power'}
+{'device': 'light.bethroom', 'attribute': 'brightness'}
+False
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchin","attribute":"power"} ==> true
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchin","attribute":"power"} ==> true
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchin","attribute":"power"} ==> true
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchin","attribute":"power"}==> true
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+Check if the kitchen light is off?
+{"device":"light.kitchin","attribute":"power"} ==> true
+{'device': 'light.kitchin', 'attribute': 'power'}
+------------------------------------------------------------------------------------
+{'pass': 170, 'fail': 530, 'category_results': {'easy.json': {'pass': 46, 'fail': 54}, 'easy_wo_examples.json': {'pass': 5, 'fail': 95}, 'long.json': {'pass': 8, 'fail': 92}, 'long_wo_examples.json': {'pass': 0, 'fail': 100}, 'medium.json': {'pass': 51, 'fail': 49}, 'medium_wo_examples.json': {'pass': 0, 'fail': 100}, 'medium_w_mistakes.json': {'pass': 60, 'fail': 40}}}

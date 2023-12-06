@@ -1,0 +1,170 @@
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '%25'}]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '%25'}]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '%25'}]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '%25'}]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '%25'}]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+ Yes
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+ Yes
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+ Yes
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+ Yes
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+ Yes
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Is the kitchen light dim?
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}, {'operator': '<=', 'value': 50}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.kitchen', 'attribute': 'brightness'}]}
+False
+------------------------------------------------------------------------------------
+Turn on the Study Room Light.
+
+{'type': 'command', 'commands': [{'device': 'light.study_room', 'action': 'power', 'state': 'on'}]}
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Switch off the Bedroom Light.
+{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'power', 'state': 'off'}]}
+False
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+{   
+    "type":"command",     # type of request - always command        
+    "commands":[         # list of commands           
+            {"device":light.garage,"action":"color","state":"red"}
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Change the color of the Garage Light to red.
+
+{'type': 'command', 'commands': [{'device': 'light.garage', 'action': 'color', 'state': 'red'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{   
+    "type":"command",     # type of request - always command 
+    "commands":[         # list of commands requested by user separated by comma if more than one        
+      {"device":"light.livingroom","action":"dim","state":"70"}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{   
+    "type":"command",     # type of request - always command        
+    "commands":[         # list of commands requested       
+            {"device":"light.livingroom","action":"dim","state":"70"} # single command with id , action & state value           
+    ]          
+}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+------------------------------------------------------------------------------------
+Dim the Livingroom Light to 70%.
+{'type': 'command', 'commands': [{'light.livingroom': {'action': 'dim', 'state': '70'}}]}
+{'type': 'command', 'commands': [{'device': 'light.livingroom', 'action': 'dim', 'state': '70'}]}
+False
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Set the bedroom light to blue.
+{   
+    "type":"command",     # type of request - always command        
+    "commands":[         # list of commands requested       
+        {"device":"light.bedroom","action":"color","state":"#0000ff"}      # action with parameters           
+    ]          
+}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'color', 'state': 'blue'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{   
+    "type":"command",     # type of request - always command        
+    "commands":[         # list of commands requested by end-user       
+            {           # first action                
+                    "device":{alias:"light.bedroom"}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+------------------------------------------------------------------------------------
+Dim the Bedroom Light to 25%.
+{'type': 'command', 'commands': [{'light.bedroom': 'dim', 'state': '25'}]}
+{'type': 'command', 'commands': [{'device': 'light.bedroom', 'action': 'dim', 'state': '25'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{  "type":"response","commands":[{  "device":"light.study_room", 
+    "attribute":"color",
+    "value":"green"
+  },
+  {  "device":"light.study_room",   // same as above but just confirming value was set correctly
+    "attribute":"color",
+    "value":"green"
+  }
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'response', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'response', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+Can you change the color of the study room light?
+{'type': 'response', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+{'type': 'inquiry', 'commands': [{'device': 'light.study_room', 'attribute': 'color'}]}
+False
+------------------------------------------------------------------------------------
+{'pass': 168, 'fail': 32, 'category_results': {'long.json': {'pass': 89, 'fail': 11}, 'long_wo_examples.json': {'pass': 79, 'fail': 21}}}

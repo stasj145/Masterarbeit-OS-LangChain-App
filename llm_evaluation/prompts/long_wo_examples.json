@@ -1,0 +1,92 @@
+[
+    {
+        "prompt": "Below is a \"USER REQUEST\" asking to make a change to a smart home device. Respond in JSON format as defined under \"JSON STRUCTURE\". All available devices and their alias are defined in the \"DEVICE ALIAS LIST\" in the format \"Alias: device_id\", choose the best fitting device. Also choose an \"action\" from the \"ACTION LIST\". \n\n\nJSON STRUCTURE: {{\"type\": \"command\", \"commands\": [{{\"device\": device_id, \"action\": string, \"state\": string}}]}}\n\nACTION LIST: power [STATE: on, off], dim [STATE: percentage], color [STATE: color name]\n\nDEVICE LIST: \nbathroom light: light.bathroom,\nlivingroom light: light.livingroom,\nKitchen light: light.kitchen,\nbedroom light: light.bedroom,\ngarage light: light.garage,\nstudy room light: light.study_room\n\n{user_request_token}: \"{input}\"",
+        "in_out_pairs": [
+            {
+                "input": "Turn on the Study Room Light.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.study_room\", \"action\": \"power\", \"state\": \"on\"}]}"
+            },
+            {
+                "input": "Switch off the Bedroom Light.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.bedroom\", \"action\": \"power\", \"state\": \"off\"}]}"
+            },   
+            {
+                "input": "Change the color of the Garage Light to red.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.garage\", \"action\": \"color\", \"state\": \"red\"}]}"
+            },              
+            {
+                "input": "Dim the Livingroom Light to 70%.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.livingroom\", \"action\": \"dim\", \"state\": \"70\"}]}"
+            },
+            {
+                "input": "Switch the Study Room Light off.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.study_room\", \"action\": \"power\", \"state\": \"off\"}]}"
+            },              
+            {
+                "input": "Set the bedroom light to blue.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.bedroom\", \"action\": \"color\", \"state\": \"blue\"}]}"
+            },              
+            {
+                "input": "Turn off the Garage Light.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.garage\", \"action\": \"power\", \"state\": \"off\"}]}"
+            },              
+            {
+                "input": "Change the Study Room Light color to yellow.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.study_room\", \"action\": \"color\", \"state\": \"yellow\"}]}"
+            },              
+            {
+                "input": "Dim the Bedroom Light to 25%.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.bedroom\", \"action\": \"dim\", \"state\": \"25\"}]}"
+            },              
+            {
+                "input": "Activate the Garage Light.",
+                "expected_answer": "{\"type\": \"command\", \"commands\": [{\"device\": \"light.garage\", \"action\": \"power\", \"state\": \"on\"}]}"
+            }          
+        ]
+    },
+    {
+        "prompt": "Below is a \"USER REQUEST\" asking to make get information about a smart home device. Respond in JSON format as defined under \"JSON STRUCTURE\". \nAll available devices and their alias are defined in the \"DEVICE ALIAS LIST\" in the format \"Alias: device_id\", choose the best fitting device. Also choose an \"attribute\" from the \"ATTRIBUTE LIST\" that the user is asking about. \n\nJSON STRUCTURE: {{\"type\": \"inquiry\", \"commands\": [{{\"device\": device_id, \"attribute\": string}}]}}\n\n\nATTRIBUTE LIST: \"power\", \"color, \"brightness\"\n\nDEVICE ALIAS LIST: \nbathroom light: light.bathroom,\nlivingroom light: light.livingroom,\nKitchen light: light.kitchen,\nbedroom light: light.bedroom,\ngarage light: light.garage,\nstudy room light: light.study_room\n\n{user_request_token}: \"{input}\"",
+        "in_out_pairs": [
+            {
+                "input": "Is the bedroom light turned on?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.bedroom\", \"attribute\": \"power\"}]}"
+            },
+            {
+                "input": "Can you change the color of the study room light?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.study_room\", \"attribute\": \"color\"}]}"
+            },
+            {
+                "input": "Is the brightness of the bathroom light at maximum?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.bathroom\", \"attribute\": \"brightness\"}]}"
+            },
+            {
+                "input": "Is the garage light bright enough?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.garage\", \"attribute\": \"brightness\"}]}"
+            },
+            {
+                "input": "What's the power status of the study room light?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.study_room\", \"attribute\": \"power\"}]}"
+            },
+            {
+                "input": "Is the kitchen light dim?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.kitchen\", \"attribute\": \"brightness\"}]}"
+            },              
+            {
+                "input": "Can you tell me the color of the bedroom light?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.bedroom\", \"attribute\": \"color\"}]}"
+            },  
+            {
+                "input": "How bright is the garage light now?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.garage\", \"attribute\": \"brightness\"}]}"
+            },
+            {
+                "input": "I want to know if the study room light is on or off.",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.study_room\", \"attribute\": \"power\"}]}"
+            },              
+            {
+                "input": "What color is the garage light currently?",
+                "expected_answer": "{\"type\": \"inquiry\", \"commands\": [{\"device\": \"light.garage\", \"attribute\": \"color\"}]}"
+            }
+        ]
+    }
+]

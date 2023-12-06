@@ -1,0 +1,61 @@
+{
+    "entity_id": "light.living_room",
+    "state": "on",
+    "attributes": {
+        "min_color_temp_kelvin": 2000,
+        "max_color_temp_kelvin": 6535,
+        "min_mireds": 153,
+        "max_mireds": 500,
+        "supported_color_modes": [
+            "color_temp",
+            "xy"
+        ],
+        "color_mode": "xy",
+        "brightness": 221,
+        "hs_color": [
+            332.647,
+            53.333
+        ],
+        "rgb_color": [
+            255,
+            119,
+            181
+        ],
+        "xy_color": [
+            0.463,
+            0.257
+        ],
+        "is_hue_group": true,
+        "hue_scenes": [
+            "Tropical twilight",
+            "Read",
+            "Bright",
+            "Rot-Blau",
+            "Energize",
+            "Savanna sunset",
+            "Nightlight",
+            "Concentrate",
+            "Arctic aurora",
+            "Dimmed",
+            "Spring blossom",
+            "Relax"
+        ],
+        "hue_type": "room",
+        "lights": [
+            "Living room bulb 2",
+            "Licing room bulb 3",
+            "Living room bulb 1"
+        ],
+        "dynamics": false,
+        "icon": "mdi:lightbulb-group",
+        "friendly_name": "Living room",
+        "supported_features": 40
+    },
+    "last_changed": "2023-09-06T10:32:24.888991+00:00",
+    "last_updated": "2023-09-06T10:32:24.888991+00:00",
+    "context": {
+        "id": "01H9N0SSASHKRJ48R76ZRPVM8Q",
+        "parent_id": null,
+        "user_id": "496cc36ea15c4273b1ac9a8ebdc367e2"
+    }
+}

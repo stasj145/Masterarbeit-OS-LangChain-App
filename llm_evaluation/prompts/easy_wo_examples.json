@@ -1,0 +1,93 @@
+[
+    {
+        "prompt": "Below is a \"USER REQUESTS\" and \"RESPONSE\" from a Smart Home System. Respond in JSON format as defined under \"JSON STRUCTURE\". The \"action\" should be \"turn on\" or \"turn off\".\n\nJSON STRUCTURE: {{\"device\": string, \"action\": string}}\n\n\nUSER REQUEST: \"Turn on the Bathroom Light.\"\nRESPONSE: {{\"device\": \"Bathroom Light\", \"action\": \"turn on\"}}\n\nUSER REQUEST: \"Turn the Livingroom Light on.\"\nRESPONSE: {{\"device\": \"Livingroom Light\", \"action\": \"turn on\"}}\n\nUSER REQUEST: \"Turn off the Light in the Kitchen.\"\nRESPONSE: {{\"device\": \"Kitchen Light\", \"action\": \"turn off\"}}\n\nUSER REQUEST: \"Turn the Livingroom Light off.\"\nRESPONSE: {{\"device\": \"Livingroom Light\", \"action\": \"turn off\"}}\n\nUSER REQUEST: \"Enable the Livingroom Light.\"\nRESPONSE: {{\"device\": \"Livingroom Light\", \"action\": \"turn on\"}}\n\n{user_request_token}: \"{input}\"",
+        "in_out_pairs": [
+            {
+            "input": "Switch on the Bedroom Light.",
+            "expected_answer": "{\"device\": \"Bedroom Light\", \"action\": \"turn on\"}"
+            },
+            {
+            "input": "Deactivate the Garage Light.",
+            "expected_answer": "{\"device\": \"Garage Light\", \"action\": \"turn off\"}"
+            },
+            {
+            "input": "Turn on the Patio Light.",
+            "expected_answer": "{\"device\": \"Patio Light\", \"action\": \"turn on\"}"
+            },
+            {
+            "input": "Switch off the Office Light.",
+            "expected_answer": "{\"device\": \"Office Light\", \"action\": \"turn off\"}"
+            },
+            {
+            "input": "Activate the Hallway Light.",
+            "expected_answer": "{\"device\": \"Hallway Light\", \"action\": \"turn on\"}"
+            },
+            {
+            "input": "Illuminate the Basement Light.",
+            "expected_answer": "{\"device\": \"Basement Light\", \"action\": \"turn on\"}"
+            },
+            {
+            "input": "Kill the Study Light.",
+            "expected_answer": "{\"device\": \"Study Light\", \"action\": \"turn off\"}"
+            },
+            {
+            "input": "Light up the Garden Light.",
+            "expected_answer": "{\"device\": \"Garden Light\", \"action\": \"turn on\"}"
+            },
+            {
+            "input": "Shut down the Balcony Light.",
+            "expected_answer": "{\"device\": \"Balcony Light\", \"action\": \"turn off\"}"
+            },
+            {
+            "input": "Power the Dining Room Light.",
+            "expected_answer": "{\"device\": \"Dining Room Light\", \"action\": \"turn on\"}"
+            }
+              
+        ]
+    },
+    {
+        "prompt": "Below is a \"USER REQUESTS\" and \"RESPONSE\" from a Smart Home System. Respond in JSON format as defined under \"JSON STRUCTURE\". The \"attribute\" can be one of the following: \"power\", \"color\", \"brightness\".\n\nJSON STRUCTURE: {{\"device\": string, \"attribute\": string}}\n\n{user_request_token}: \"{input}\"",
+        "in_out_pairs": [
+            {
+                "input": "Is the bedroom light on?",
+                "expected_answer": "{\"device\": \"bedroom light\", \"attribute\": \"power\"}"
+            },
+            {
+                "input": "What color is the porch light?",
+                "expected_answer": "{\"device\": \"porch light\", \"attribute\": \"color\"}"
+            },
+            {
+                "input": "How bright is the bathroom light?",
+                "expected_answer": "{\"device\": \"bathroom light\", \"attribute\": \"brightness\"}"
+            },
+            {
+                "input": "Is the garage light on?",
+                "expected_answer": "{\"device\": \"garage light\", \"attribute\": \"power\"}"
+            },
+            {
+                "input": "How bright is the porch light?",
+                "expected_answer": "{\"device\": \"porch light\", \"attribute\": \"brightness\"}"
+            },
+            {
+                "input": "What color is the bedroom light?",
+                "expected_answer": "{\"device\": \"bedroom light\", \"attribute\": \"color\"}"
+            },
+            {
+                "input": "Is the hallway light on?",
+                "expected_answer": "{\"device\": \"hallway light\", \"attribute\": \"power\"}"
+            },
+            {
+                "input": "How bright is the garage light?",
+                "expected_answer": "{\"device\": \"garage light\", \"attribute\": \"brightness\"}"
+            },
+            {
+                "input": "What color is the dining room light?",
+                "expected_answer": "{\"device\": \"dining room light\", \"attribute\": \"color\"}"
+            },
+            {
+                "input": "Is the study room light on?",
+                "expected_answer": "{\"device\": \"study room light\", \"attribute\": \"power\"}"
+            }
+        ]
+    }
+]
